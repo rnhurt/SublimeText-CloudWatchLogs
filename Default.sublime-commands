@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "CloudWatch: View Logs",
+    "command": "cloud_watch_logs_view"
+  }
+]

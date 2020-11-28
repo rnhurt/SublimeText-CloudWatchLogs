@@ -1,0 +1,11 @@
+.DS_Store
+.no-sublime-package
+
+package-metadata.json
+*.pyc
+*.pyo
+*.o
+
+*.egg-info
+build
+dist
